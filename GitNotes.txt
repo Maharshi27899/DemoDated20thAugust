@@ -1,4 +1,0 @@
-Git Status --> To see staged , un-staged and un-tracked files.
-			Staged : Files ready to commit
-			Un-Staged : Files not ready to commit
-			Un- Tracked : Newly created files.(To be Staged)
