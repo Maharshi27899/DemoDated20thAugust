@@ -55,9 +55,34 @@ To clone git repository to our system we will use the clone command .
 			Syntax : git clone <repo-url>		(It will clone the master branch by default)
 
 To clone particular branch from the git repository we will use the command
+--------------------------------------------------------------------------
 			Syntax : git clone -b <branch name> <git repo url>
 			
 After dev and testing completed for our story then we can merge feature branch changes to the 
 Master Branch.
 
 To Merge changes from one branch to another , WE WILL PULL REQUEST.
+
+As a developer when project is getting started, we will request the git admin to create repository
+for project (Manager Approval Required ).
+
+Git Admin will create the repository and share the repository URL .
+
+			NOTE : Every Team member will have account for GitHub. 
+
+We will share git repository URL to all members.  
+
+After repository got created, we will create below branches
+				- develop
+				- feature
+				- QA
+				- UAT
+				- release
+Every team member can create feature branch for development activity.
+
+GIT Bash Commands
+=================
+help
+init 
+clone url
+  
