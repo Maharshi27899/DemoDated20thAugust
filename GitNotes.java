@@ -85,4 +85,17 @@ GIT Bash Commands
 help
 init 
 clone url
-  
+clone -b branchname url
+status
+add filename
+reset HEAD
+checkout
+commit -m 'msg'
+push
+pull
+diff
+logs
+branch 
+stash
+stash apply
+fork  
